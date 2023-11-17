@@ -1,0 +1,16 @@
+:root {
+  /* Colors */
+  --color-text: rgb(255, 255, 255);
+  --color-textDisabled: rgb(188, 188, 188);
+  --color-primary: rgb(87, 107, 188);
+  --color-primaryDisabled: rgb(58, 69, 115);
+  --color-secondary: #19376d;
+  --color-dark: #0b2447;
+  --color-bg: #04152d;
+
+  --color-hover1: rgb(210, 210, 210);
+  --color-hover2: rgb(58, 69, 115);
+
+  /* Fonts */
+  --font-roboto: "Roboto";
+}

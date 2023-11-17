@@ -1,0 +1,18 @@
+[
+    {
+      "title": "Local Bar Website",
+      "imageSrc": "projects/localBar.png",
+      "description": "Developed a website for a local bar prioritizing cross-platform design for an engaging and interactive user experience.",
+      "skills": ["HTML", "CSS", "Bootstrap"],
+      "demo": "https://luakitch.github.io/Local-Bar",
+      "source": "https://github.com/luakitch/Local-Bar"
+    },
+    {
+      "title": "Inventory Management System",
+      "imageSrc": "projects/revive.PNG",
+      "description": "College final collaboration project both prototyping and developing an inventory management system for a local salon.",
+      "skills": ["HTML", "CSS", "Javascript", "Node.js", "Express.js", "MongoDB", "Figma"],
+      "demo": "",
+      "source": "https://github.com/luakitch/InventoryManagementSystem"
+    }
+  ]

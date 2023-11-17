@@ -1,0 +1,15 @@
+[
+  {
+    "role": "Application Developer",
+    "company": "DB Services",
+    "startDate": "Feb, 2023",
+    "endDate": "May, 2023",
+    "experiences": [
+      "Full stack development using Claris Filemaker Pro relational database platform",
+      "Developed and maintained new features for client apps",
+      "Provided support and debugging of old functionalities",
+      "Managed complex relational database systems to work with front-end features"
+    ],
+    "imageSrc": "history/db.png"
+  }
+]
